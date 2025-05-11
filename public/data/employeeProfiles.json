@@ -8,7 +8,7 @@
     "position": "Software Engineer",
     "department": "Development",
     "dateOfJoining": "2021-06-15",
-    "leaveBalance": 15,
+    "leaveBalance": 10,
     "profilePicture": "path/to/profile-picture1.jpg",
     "role": "employee"
   },
@@ -21,7 +21,7 @@
     "position": "HR Manager",
     "department": "Human Resources",
     "dateOfJoining": "2020-03-22",
-    "leaveBalance": 20,
+    "leaveBalance": 10,
     "profilePicture": "path/to/profile-picture2.jpg",
     "role": "hr"
   },
@@ -47,7 +47,7 @@
     "position": "UX Designer",
     "department": "Design",
     "dateOfJoining": "2022-01-10",
-    "leaveBalance": 12,
+    "leaveBalance": 10,
     "profilePicture": "path/to/profile-picture4.jpg",
     "role": "employee"
   }

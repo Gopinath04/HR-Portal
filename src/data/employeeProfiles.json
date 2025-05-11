@@ -8,7 +8,7 @@
     "position": "Software Engineer",
     "department": "Development",
     "dateOfJoining": "2021-06-15",
-    "leaveBalance": 15,
+    "totalleaves": 10,
     "profilePicture": "path/to/profile-picture1.jpg",
     "role": "employee"
   },
@@ -21,7 +21,7 @@
     "position": "HR Manager",
     "department": "Human Resources",
     "dateOfJoining": "2020-03-22",
-    "leaveBalance": 20,
+    "totalleaves": 10,
     "profilePicture": "path/to/profile-picture2.jpg",
     "role": "hr"
   },
@@ -34,7 +34,7 @@
     "position": "Product Manager",
     "department": "Product",
     "dateOfJoining": "2019-11-30",
-    "leaveBalance": 10,
+    "totalleaves": 10,
     "profilePicture": "path/to/profile-picture3.jpg",
     "role": "employee"
   },
@@ -47,7 +47,7 @@
     "position": "UX Designer",
     "department": "Design",
     "dateOfJoining": "2022-01-10",
-    "leaveBalance": 12,
+    "totalleaves": 10,
     "profilePicture": "path/to/profile-picture4.jpg",
     "role": "employee"
   }
