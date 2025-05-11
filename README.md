@@ -1,4 +1,4 @@
-# HR Management Porta
+# HR Management Portal
 
 This project is an HR Management Portal built with React.js. It allows employees and HR personnel to manage tasks like leave requests, employee profiles, and role-based access. The application uses React Router for navigation and Bootstrap for responsive design.
 
