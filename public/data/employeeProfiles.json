@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "firstName": "Gopinath",
+    "lastName": "E",
+    "email": "gopinath@gmail.com",
+    "password": "test123",
+    "position": "Software Engineer",
+    "department": "Development",
+    "dateOfJoining": "2021-06-15",
+    "leaveBalance": 15,
+    "profilePicture": "path/to/profile-picture1.jpg",
+    "role": "employee"
+  },
+  {
+    "id": 2,
+    "firstName": "HR",
+    "lastName": "Manager",
+    "email": "hr@gmail.com",
+    "password": "hr123",
+    "position": "HR Manager",
+    "department": "Human Resources",
+    "dateOfJoining": "2020-03-22",
+    "leaveBalance": 20,
+    "profilePicture": "path/to/profile-picture2.jpg",
+    "role": "hr"
+  },
+  {
+    "id": 3,
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "email": "alice.johnson@example.com",
+    "password": "johnson@123",
+    "position": "Product Manager",
+    "department": "Product",
+    "dateOfJoining": "2019-11-30",
+    "leaveBalance": 10,
+    "profilePicture": "path/to/profile-picture3.jpg",
+    "role": "employee"
+  },
+  {
+    "id": 4,
+    "firstName": "Bob",
+    "lastName": "Brown",
+    "email": "bob.brown@example.com",
+    "password": "bobbrown@123",
+    "position": "UX Designer",
+    "department": "Design",
+    "dateOfJoining": "2022-01-10",
+    "leaveBalance": 12,
+    "profilePicture": "path/to/profile-picture4.jpg",
+    "role": "employee"
+  }
+]
