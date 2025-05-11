@@ -1,0 +1,18 @@
+{
+  "leaveRequests": [
+    {
+      "id": "5704",
+      "leaveType": "personal",
+      "startDate": "2025-05-13",
+      "endDate": "2025-05-14",
+      "reason": "Personal Leave",
+      "employee": {
+        "id": 1,
+        "firstName": "Gopinath",
+        "lastName": "E",
+        "email": "gopinath@gmail.com"
+      },
+      "status": "Approved"
+    }
+  ]
+}
