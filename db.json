@@ -13,6 +13,20 @@
         "email": "gopinath@gmail.com"
       },
       "status": "Approved"
+    },
+    {
+      "id": "1492",
+      "leaveType": "sick",
+      "startDate": "2025-05-17",
+      "endDate": "2025-05-17",
+      "reason": "Sick Leave",
+      "employee": {
+        "id": 1,
+        "firstName": "Gopinath",
+        "lastName": "E",
+        "email": "gopinath@gmail.com"
+      },
+      "status": "Approved"
     }
   ]
 }
